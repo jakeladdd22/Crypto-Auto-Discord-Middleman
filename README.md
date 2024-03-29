@@ -7,14 +7,7 @@ Thanks for taking an interest in utilizing one of my open-sourced projects for D
 
 ## Requirements
 
-NodeJS (https://nodejs.org) - v21.7.1 or above
-Render Account (https://render.com)
-OxaPay Account (https://oxapay.com/)
-MongodB Account (https://www.mongodb.com/)
-GitHub Account (https://github.com/)
-Discord Bot (https://discord.com/developers/applications)
-Prior Coding Knowledge (even a little)
-Common Sense
+NodeJS (https://nodejs.org) - v21.7.1 or above<br/>Render Account (https://render.com)<br/>OxaPay Account (https://oxapay.com/)<br/>MongodB Account (https://www.mongodb.com/)<br/>GitHub Account (https://github.com/)<br/>Discord Bot (https://discord.com/developers/applications)<br/>Prior Coding Knowledge (even a little)<br/>Common Sense
 
 <hr />
 
@@ -62,5 +55,5 @@ https://www.youtube.com/watch?v=aLdIdmQOuzY
 ## Self-Hosting Discord Bot
 
 You can self-host the Discord Bot by running "node ." in the directory main/Discord (Must have NodeJS installed).
-
+<br/>
 If you have any questions, please refer to YouTube or the DiscordJS Support Server. If you are interested in hiring me for a commission, you can bring me on by dm'ing me on Discord (mikayla.js).

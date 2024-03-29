@@ -1,7 +1,7 @@
 # Open Source Automated Crypto Middleman for Discord
 <hr/>
 
-Thanks for taking an interest in utilizing one of my open-sourced projects for Discord. This service is for a user(s) to create an Automated Crypto Middleman Service (ex. AutoPlus or Halal Middleman). This service takes an extensive time to setup (15-30 minutes), although it is completely worth it.|
+Thanks for taking an interest in utilizing one of my open-sourced projects for Discord. This service is for a user(s) to create an Automated Crypto Middleman Service (ex. AutoPlus or Halal Middleman). This service takes an extensive time to setup (15-30 minutes), although it is completely worth it. The service supports **BTC**, **LTC**, **ETH**, **USDT**, and **DOGE**.
 
 <hr/>
 
